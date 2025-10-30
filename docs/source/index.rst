@@ -225,6 +225,7 @@ From `OpenI <https://git.openi.org.cn/OpenI/spikingjelly>`_：
     /legacy_tutorials_en
     /activation_based_en/cupy_neuron
     /activation_based_en/lava_exchange
+    /activation_based_en/spiking_conv_lstm
     /activation_based_en/spikformer
 
 
